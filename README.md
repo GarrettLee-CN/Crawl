@@ -6,5 +6,5 @@ Here are a few things you need to know:<br>
 * Set Up Scrapy Framework:```pip install scrapy```
 * Create Scrapy Framework:```scrapy startproject tjnu```
 * Create Spider Program :```scrapy genspider tjnunews tjnu.edu.cn```
-* Run Spider program:```scrapy crawl tjnunews -o tjnu.csv```
+* Run Spider program:```scrapy crawl tjnunews -o tjnu.csv```<br>
 **To learn more, read the PDF file of Python入门与Scrapy爬虫**
