@@ -7,6 +7,9 @@ Here are a few things you need to know:<br>
 * Create Scrapy Framework:```scrapy startproject tjnu```
 * Create Spider Program :```scrapy genspider tjnunews tjnu.edu.cn```
 * Run Spider program:```scrapy crawl tjnunews -o tjnu.csv```<br>
-**To learn more, read the PDF file of Python入门与Scrapy爬虫**
-<br>
-<br>
+ 
+ ## tjnu program
+>**tjnu** program is also based on the Scrapy framework, which mainly provides multi-page scraping examples.
+
+Upload Date:2020/4/2
+
